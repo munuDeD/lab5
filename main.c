@@ -1,3 +1,4 @@
+//программа является учебной
 #include <stdio.h>
 int main () {
  int x,y;
